@@ -21,7 +21,9 @@ const App = () => {
         <Roadmap />
         <Footer />
       </div>
-
+      
+      {/* // Import de bouttongradient ici pour toute l'app comme cela il n'y a pas besoin 
+      // De l'importer à chaque fois qu'il y a un boutton  */}
       <ButtonGradient />
     </>
   );

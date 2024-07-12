@@ -8,3 +8,20 @@
 </linearGradient>
 </defs>
 </svg>
+
+<!-- C'est un test de faire une div custom -->
+<!-- il faut copy et pass le path dans le svg > ClipPath -->
+
+<!-- <svg width="385" height="367" viewBox="0 0 385 367" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M295 5H91.2144C44.2702 5 6.21443 43.0557 6.21443 89.9999V275.999C6.21443 278.23 6.30043 280.442 6.46928 282.63L4.81524 281.058L4.81524 302.644L51.7589 360.486H68.8753H77.7085L133.144 360.486L133.191 360.999H295C341.944 360.999 380 322.943 380 275.999V90C380 43.0558 341.944 5 295 5ZM133.651 365.999H295C344.706 365.999 385 325.704 385 275.999V90C385 40.2944 344.706 0 295 0H91.2144C41.5088 0 1.21443 40.2943 1.21443 89.9999V275.56L0.659561 275.463L0.659559 303.311L0.659558 304.702L1.46492 305.694L49.895 365.368L50.576 366.207H51.4305H69.4014L78.2346 366.207L133.67 366.207L133.651 365.999Z" fill="url(#paint0_angular_1_21)"/>
+<defs>
+<linearGradient id="paint0_angular_1_21" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" >
+<stop offset="0.215" stop-color="#C11818"/>
+<stop offset="0.43" stop-color="#239E21"/>
+<stop offset="0.61" stop-color="#BCC927"/>
+<stop offset="0.831289" stop-color="#317EAA" stop-opacity="0.778711"/>
+<stop offset="1" stop-color="#C838BA" stop-opacity="0.61"/>
+</linearGradient>
+</defs>
+</svg> -->
+
